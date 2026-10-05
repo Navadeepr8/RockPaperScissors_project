@@ -57,4 +57,4 @@ rock-paper-scissors/
 
 **Navadeep Kumar**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Navadeepr8
